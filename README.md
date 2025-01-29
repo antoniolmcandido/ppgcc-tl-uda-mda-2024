@@ -2,7 +2,7 @@
 
 Este curso é sobre Adaptação de Domínio.
 
-**Professor (Candido)[https://instagram.com/antoniolmcandido]**
+**Professor [Candido](https://instagram.com/antoniolmcandido)**
 
 ### O que é Adaptação de Domínio?
 
