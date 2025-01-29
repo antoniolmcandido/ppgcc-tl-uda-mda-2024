@@ -2,6 +2,8 @@
 
 Este curso é sobre Adaptação de Domínio.
 
+**Professor (Candido)[https://instagram.com/antoniolmcandido]**
+
 ### O que é Adaptação de Domínio?
 
 * Adaptação de Domínio é uma técnica em aprendizado de máquina e inteligência artificial que visa transferir conhecimento de um domínio (ou conjunto de dados) para outro. Isso é especialmente útil quando há uma quantidade limitada de dados rotulados no domínio de destino, mas uma abundância de dados rotulados em um domínio relacionado. A adaptação de domínio busca minimizar a diferença entre os domínios de origem e destino para melhorar o desempenho do modelo no domínio de destino.
